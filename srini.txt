@@ -2,5 +2,4 @@ Hi
 Hello
 How are you 
 Hi , 
-Hello,
 I am good.
